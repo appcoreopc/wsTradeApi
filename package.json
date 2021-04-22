@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@types/uws": "^0.13.2",
-    "uws": "^200.0.0"
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v18.14.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.41",
